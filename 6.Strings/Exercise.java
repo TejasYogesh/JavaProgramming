@@ -30,6 +30,7 @@ public class Exercise {
         String strHeap = new String("Java");
         String strNotHeap = new String("Java");
         System.out.println(strHeap == strNotHeap);
+        // it gives the false : bcoz one is pointing to the strHeap and the another one is not strNotHeap
 
 
 
